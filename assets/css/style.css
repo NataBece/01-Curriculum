@@ -1,0 +1,11 @@
+body p, h1, h2, h3, ul, ol, img {
+    margin-left: 200px;
+    
+}
+h1 {
+    color: grey;
+}
+ol, ul {
+    color: green;
+    
+}
